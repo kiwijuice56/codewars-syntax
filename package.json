@@ -5,8 +5,7 @@
   "description": "A recreation of the Codewars (https://www.codewars.com) editor theme. No affiliation with HP or Codewars.",
   "keywords": [
     "syntax",
-    "theme",
-    "codewars"
+    "theme"
   ],
   "repository": "https://github.com/kiwijuice56/codewars-syntax",
   "license": "MIT",
