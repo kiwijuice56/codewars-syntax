@@ -1,0 +1,16 @@
+{
+  "name": "codewars-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A recreation of the Codewars (https://www.codewars.com) editor theme. No affiliation with HP or Codewars.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "codewars"
+  ],
+  "repository": "https://github.com/atom/codewars-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
